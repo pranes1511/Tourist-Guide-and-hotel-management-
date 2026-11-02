@@ -1,0 +1,14 @@
+{
+  "name": "tourist-guide-and-hotel-booking-system",
+  "version": "1.0.0",
+  "description": "College Software Engineering Project: Tourist Guide and Hotel Booking System (Full-Stack MERN)",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "backend:start": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build",
+    "test": "npm --prefix backend test"
+  },
+  "author": "Software Engineering Student",
+  "license": "ISC"
+}
